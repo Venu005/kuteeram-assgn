@@ -38,8 +38,8 @@ This project is a backend application for a rice trading platform connecting ric
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Venu005/kuteeram-assgn
+    cd kuteeram-assgn
     ```
 2.  **Install dependencies:**
     ```bash
